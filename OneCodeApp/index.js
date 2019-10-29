@@ -62,8 +62,4 @@ app.get('/notes', function(req, res) {
 //Told express to listen to HTTP requests on port 3000
 app.listen(3000)
     // console.log(key);
-exit
-
-exit
-.exit
 
