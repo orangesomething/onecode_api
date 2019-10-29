@@ -52,7 +52,7 @@ app.post('/notes', function(request, response){
 //         //log them  - https://stackoverflow.com/questions/40880094/create-log-file-in-nodejs/40880386
 //         // call Shopify API to create "Discount code" using https://help.shopify.com/en/api/reference/discounts/discountcode
 //
-// }
+//}
 
 //Added a handler for GET /notes which responds to the request with a JSON object with sample notes
 app.get('/notes', function(req, res) {
@@ -62,3 +62,8 @@ app.get('/notes', function(req, res) {
 //Told express to listen to HTTP requests on port 3000
 app.listen(3000)
     // console.log(key);
+exit
+
+exit
+.exit
+
